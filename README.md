@@ -1,2 +1,3 @@
 # Algorithms
-Repository for Algorithms study with Python
+
+- 코딩테스트를 준비하면서 풀었던 알고리즘 문제를 업로드 합니다.
